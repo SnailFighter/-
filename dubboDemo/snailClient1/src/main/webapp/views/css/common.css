@@ -1,0 +1,10 @@
+.div-left{
+	float:left;
+}
+.div-right{
+	float:right;
+}
+
+.shadow-common{
+	box-shadow: 5px 5px 5px #888888;
+}

@@ -1,0 +1,19 @@
+.one {
+	background: blueviolet;
+}
+
+.two {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+.three {
+	font-family: "微软雅黑";
+	font-size: larger;
+	font-style: oblique;
+	color: black;
+}

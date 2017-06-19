@@ -1,0 +1,29 @@
+.index-nav-bg {
+	text-margin: center;
+}
+
+.nav-item {
+	text-align: center;
+	font-size: medium;
+	font-weight: bold;
+	color: #ffffff
+}
+
+.nav-center {
+	margin: 0 auto;
+}
+
+.index-context {
+	width: auto; height : auto;
+	margin: auto;
+	text-align: center;
+	
+	height: auto;
+}
+
+.full-screen {
+	padding-top: 15px;
+	width: 100%;
+	background-color: #000000;
+}
+
